@@ -4,9 +4,9 @@
 <h1 align="center">
     ¡Bienvenid@ a mi perfil de GitHub! 👋💻
 </h1>  
-<h4 align="center">
+<h3 align="center">
     ¡Hola! Soy Marco Povea, un desarrollador full-stack Jr. con experiencia en tecnologías como Java, SQL, REACT, entre otras. A lo largo de mi ruta de aprendizaje, muchas personas me han enseñado y estoy muy agradecido con ellas. Para seguir mejorando mis habilidades, me capacito diariamente, tanto de forma autodidacta como formación universitaria. Me considero una persona persistente y comprometida, lo que me ha llevado a estar siempre abierto a nuevas oportunidades. Disfruto mucho trabajar y aprender de otros, pienso que eso permite crecer mutuamente. ¡Estoy emocionado por lo que viene! ✨👋🚀😎
-</h4>
+</h3>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html5" width="40px" height="40px" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css3" alt="css3" width="40px" height="40px" />&nbsp;
