@@ -4,7 +4,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29D62D&center=true&width=1050&lines=%C2%A1Hola%2C+Bienvenido+a+mi+perfil+de+github%F0%9F%91%8B%F0%9F%92%BB!;Gracias+por+su+tiempo+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29D62D&center=true&width=1050&lines=%C2%A1Hola%2C+Bienvenid@+a+mi+perfil+de+github%F0%9F%91%8B%F0%9F%92%BB!;Gracias+por+su+tiempo+%3A)" alt="Typing SVG" /></a>
 <h3 align="center">
     ¡Hola! Soy Marco Povea, un desarrollador full-stack Jr. con experiencia en tecnologías como Java, SQL, REACT, entre otras. A lo largo de mi ruta de aprendizaje, muchas personas me han enseñado y estoy muy agradecido con ellas. Para seguir mejorando mis habilidades, me capacito diariamente, tanto de forma autodidacta como formación universitaria. Me considero una persona persistente y comprometida, lo que me ha llevado a estar siempre abierto a nuevas oportunidades. Disfruto mucho trabajar y aprender de otros, pienso que eso permite crecer mutuamente. ¡Estoy emocionado por lo que se vendrá! ✨👋🚀😎
 </h3>
