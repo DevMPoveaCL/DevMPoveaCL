@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/z2S0haH.jpg" alt="Banner de bienvenida">
+  <img src="https://i.imgur.com/tYMcovG.png" alt="Banner de bienvenida">
 </p>
 
 
