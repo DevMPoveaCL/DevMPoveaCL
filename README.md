@@ -28,7 +28,7 @@
 </p>
 
 <p align="center" style="font-size: 18px;">
-    ✨ Estoy emocionado por lo que se vendrá y enfrentar nuevos desafíos con dedicación y esfuerzo. ✨
+    ✨ ¡Estoy emocionado por lo que se vendrá! ✨
 </p>
 
 
