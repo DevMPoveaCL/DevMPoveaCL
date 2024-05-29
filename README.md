@@ -12,7 +12,7 @@
 </p>
 
 <p align="center" style="font-size: 16px;">
-    Dentro de mi repositorio nombrado ✨ "Documentacion-Aprendizaje" ✨ podrás encontrar cosas como "Cheatsheets", lenguajes, ejercicios y tecnologías con las cuales estoy relacionado.
+    Dentro de mi repositorio nombrado ✨ <a href="https://github.com/DevMPoveaCL/Documentacion-Aprendizaje">Documentacion-Aprendizaje</a> ✨ podrás encontrar cosas como "Cheatsheets", lenguajes, ejercicios y tecnologías con las cuales estoy relacionado.
 </p>
 
 <p align="center" style="font-size: 16px; margin-top: -10px;">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center" style="font-size: 18px;">
-    ¡Si gustas, me puedes contactar a través de LinkedIn, cuyo link está abajo de la foto de mi perfil!
+    ¡Si gustas, me puedes contactar a través de <a href="https://www.linkedin.com/in/marco-povea-b21038258/">LinkedIn</a> !
 </p>
 
 <p align="center" style="font-size: 18px;">
