@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D95&center=true&width=1050&lines=%C2%A1Hola%2C+Bienvenid@+a+mi+perfil+de+github%F0%9F%91%8B%F0%9F%92%BB!;Gracias+por+su+tiempo+%3A)" alt="Typing SVG" />
 </a>
 <h1 align="center">
-$${\color{#FF2D95}\text{¿En qué debería enfocarse realmente un desarrollador hoy en día?}}$$
+¿En qué debería enfocarse realmente un desarrollador hoy en día?
 </h1>
 <p align="center" style="font-size: 16px;">
 Es una pregunta que me ha rondado bastante últimamente. Hace un par de años empecé en esto como hobby, probando cosas, rompiendo otras y aprendiendo de forma bastante curiosa y desordenada (como la mayoría supongo).
