@@ -2,7 +2,9 @@
   <img src="https://i.imgur.com/tYMcovG.png" alt="Banner de bienvenida">
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29D62D&center=true&width=1050&lines=%C2%A1Hola%2C+Bienvenid@+a+mi+perfil+de+github%F0%9F%91%8B%F0%9F%92%BB!;Gracias+por+su+tiempo+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D95&center=true&width=1050&lines=%C2%A1Hola%2C+Bienvenid@+a+mi+perfil+de+github%F0%9F%91%8B%F0%9F%92%BB!;Gracias+por+su+tiempo+%3A)" alt="Typing SVG" />
+</a>
 <h1 align="center">
     ¡Hola, Soy Marco Povea! 👋
 </h1>
