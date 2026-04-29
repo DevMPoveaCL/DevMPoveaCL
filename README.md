@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D95&center=true&width=1050&lines=%C2%A1Hola%2C+Bienvenid@+a+mi+perfil+de+github%F0%9F%91%8B%F0%9F%92%BB!;Gracias+por+su+tiempo+%3A)" alt="Typing SVG" />
 </a>
 <h1 align="center">
-  <p align="center" style="font-size: 22px; font-weight: bold; color: #FF2D95;">
-  ✨ ¿En qué debería enfocarse realmente un desarrollador hoy en día? ✨
+  <p align="center" style="font-size: 22px; font-weight: bold; color:FF2D95;">
+  ¿En qué debería enfocarse realmente un desarrollador hoy en día?
   </p>
 </h1>
 <p align="center" style="font-size: 16px;">
