@@ -30,5 +30,5 @@ That is why I am building my <a href="https://github.com/DevMPoveaCL/software-en
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMPoveaCL&layout=compact&hide_border=true&title_color=FF2D95&text_color=E5E7EB&bg_color=0D1117&icon_color=FF2D95" alt="Most used languages">
+  <img src="./assets/language-stats.svg" alt="Most used languages across my public repositories">
 </p>
