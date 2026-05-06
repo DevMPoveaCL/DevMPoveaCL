@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/tYMcovG.png" alt="Banner de bienvenida">
+  <img src="https://imgur.com/a/XgOzjmB" alt="Banner de bienvenida">
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D95&center=true&width=1050&lines=%C2%A1Hola%2C+Bienvenid@+a+mi+perfil+de+github%F0%9F%91%8B%F0%9F%92%BB!;Gracias+por+su+tiempo+%3A)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D95&center=true&width=1050&lines=Hi%2C+Welcome+to+my+Github+Profile+%F0%9F%91%8B%F0%9F%92%BB!;Thanks+for+your+time+%3A)" alt="Typing SVG" />
 </a>
 <h1 align="center">
 ¿En qué debería enfocarse realmente un desarrollador hoy en día?
