@@ -2,72 +2,33 @@
   <img src="./assets/profile-banner.png" alt="DevMPoveaCL software engineering learning banner">
 </p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D95&center=true&width=1050&lines=Hi%2C+Welcome+to+my+Github+Profile+%F0%9F%91%8B%F0%9F%92%BB!;Thanks+for+your+time+%3A)" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF2D95&center=true&vCenter=true&width=1050&height=42&lines=Learning+fundamentals+before+chasing+tools.;Building+a+Software+Engineering+Playbook.;Studying+software+with+intention." alt="Typing SVG" />
+  </a>
+</p>
 
 <h1 align="center">
 What should a developer really focus on today?
 </h1>
 
 <p align="center">
-That question has been on my mind a lot lately.
+I am learning software development by focusing less on chasing tools and more on understanding the fundamentals behind them: architecture, clean code, problem solving, UX, and the decisions that make software easier to maintain.
 </p>
 
 <p align="center">
-A few years ago, I started getting into software development almost by accident. It began as a hobby, with curiosity, experiments, broken things, small wins, and a very messy way of learning, probably like many people at the beginning.
+That is why I am building my <a href="https://github.com/DevMPoveaCL/software-engineering-playbook"><b>Software Engineering Playbook</b></a>, a living repository where I organize what I learn while trying to study software engineering with more intention.
 </p>
 
 <p align="center">
-At some point, I started looking at job postings, and I noticed a pattern that kept repeating itself. I would see a stack being requested, start learning it so I could apply, and then, along the way, more requirements would appear. Another tool. Another framework. Another way of doing things.
+  <a href="https://github.com/DevMPoveaCL/software-engineering-playbook">
+    <img src="https://img.shields.io/badge/Software%20Engineering%20Playbook-Read%20the%20repo-FF2D95?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineering Playbook">
+  </a>
+  <a href="https://www.linkedin.com/in/marco-povea-b21038258/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <p align="center">
-And little by little, studying started to feel inefficient.
-</p>
-
-<p align="center">
-Not because learning was the problem, but because I felt like I was constantly chasing technologies instead of truly understanding what I was building.
-</p>
-
-<p align="center">
-Over time, and probably because of how much the industry itself is changing, I started feeling that the real focus has to be somewhere deeper.
-</p>
-
-<p align="center">
-Not just <i>which</i> tool you use, but <b>why</b> you use it.<br>
-Not just how to follow a tutorial, but how to think through a solution.<br>
-Not just how to make something work, but how to make it clear, maintainable, and useful.
-</p>
-
-<p align="center">
-That shift is what led me to start writing things down.
-</p>
-
-<p align="center">
-Notes, experiments, concepts I wanted to understand better, mistakes I did not want to repeat, and small lessons from the process of learning software with more intention.
-</p>
-
-<p align="center">
-That is where my repository ✨ <a href="https://github.com/DevMPoveaCL/software-engineering-playbook"><b>Software Engineering Playbook</b></a> ✨ comes from.
-</p>
-
-<p align="center">
-It is a living space where I organize what I am learning across software engineering: from the basics to architecture, clean code, frontend, backend, infrastructure, UX, accessibility, and the fundamentals that connect everything together.
-</p>
-
-<p align="center">
-It is not meant to be a place where I pretend to know everything.
-</p>
-
-<p align="center">
-It is more like a map of the road I am walking, built slowly, honestly, and with the hope that it may also help someone else who feels overwhelmed by the same noise of tools, stacks, and endless requirements.
-</p>
-
-<p align="center">
-If any of this resonates with you, or if you are also learning, building, or trying to understand software beyond the surface, I would be happy to connect on <a href="https://www.linkedin.com/in/marco-povea-b21038258/">LinkedIn</a>.
-</p>
-
-<p align="center">
-✨ Thanks for stopping by ✨
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMPoveaCL&layout=compact&hide_border=true&title_color=FF2D95&text_color=E5E7EB&bg_color=0D1117&icon_color=FF2D95" alt="Most used languages">
 </p>
