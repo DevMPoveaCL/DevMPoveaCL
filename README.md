@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="DevMPoveaCL software engineering learning banner">
+  <img src="./assets/readmeBanner.webp" alt="DevMPoveaCL software engineering learning banner">
 </p>
 
 <p align="center">
